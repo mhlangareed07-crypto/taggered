@@ -1,3 +1,4 @@
+
 """
 app.py — PDF Image Alt-Text Autotagger
 =======================================
